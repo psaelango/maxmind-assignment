@@ -1,0 +1,22 @@
+[
+  {
+    "Header": "IP Address",
+    "Accessor": "ipAddress",
+    "value": "traits.ipAddress"
+  },
+  {
+    "Header": "City Name",
+    "Accessor": "cityName",
+    "value": "city.names.en"
+  },
+  {
+    "Header": "Latitude",
+    "Accessor": "latitude",
+    "value": "location.latitude"
+  },
+  {
+    "Header": "Longitude",
+    "Accessor": "longitude",
+    "value": "location.longitude"
+  }
+]

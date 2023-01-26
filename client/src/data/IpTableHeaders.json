@@ -1,0 +1,32 @@
+[
+  {
+    "Header": "IP Address",
+    "Accessor": "ipAddress",
+    "value": "traits.ipAddress"
+  },
+  {
+    "Header": "Country Code",
+    "Accessor": "countryCode",
+    "value": "country.isoCode"
+  },
+  {
+    "Header": "Postal Code",
+    "Accessor": "postalCode",
+    "value": "postal.code"
+  },
+  {
+    "Header": "City Name",
+    "Accessor": "cityName",
+    "value": "city.names.en"
+  },
+  {
+    "Header": "Time Zone",
+    "Accessor": "timeZone",
+    "value": "location.timeZone"
+  },
+  {
+    "Header": "Accuracy Radius",
+    "Accessor": "radius",
+    "value": "location.accuracyRadius"
+  }
+]
